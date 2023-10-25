@@ -1,0 +1,25 @@
+# Title: Jose/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 23 October 2023 13:07:58 (UTC)
+# Number of unique domains: 146,518
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+# Custom host records are listed here.
+
+0.0.0.0 poki.com
+0.0.0.0 brazzers.com
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Title: Hosts contributed by Steven Black
+# http://stevenblack.com
